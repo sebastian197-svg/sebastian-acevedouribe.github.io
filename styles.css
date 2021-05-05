@@ -39,6 +39,9 @@ position: relative;
 bottom: 45px;
 left: 200px;
 }
+span{
+  text-decoration: line-through;
+}
 .parrafoportal{
   font-family: 'IBM Plex Mono', monospace;
   color: #060A24;
@@ -62,7 +65,6 @@ background-color: #00F3BB;
 }
   .box {
     display: flex;
-    text-align: top;
     padding:0 80px;
     font-weight: bold;
     box-sizing: border-box;
@@ -87,6 +89,30 @@ background-color: #00F3BB;
   left: 100px;
   bottom: 36px;
   }
+  .iframe1{
+    width:584px;
+    height:232px;
+    border: 0;
+    background-color: transparent;
+}
+.iframe2{
+  width:584px;
+  height:232px;
+  border: 0;
+  background-color: transparent;
+}
+.iframe3{
+width:584px;
+height:232px;
+border: 0;
+background-color: transparent;
+}
+.iframe4{
+width:584px;
+height:232px;
+border: 0;
+background-color: transparent;
+}
    .telimg{
      width: 457.6px;
      height: 660px;
@@ -120,8 +146,45 @@ color: #060A24;
 font-size: 48px;
 color: #060A24;
 }
-.invitadosimg{
-  display: inline block;
+.invitadosimg1{
+  width: 480px;
+  height: 364px;
+  position: relative;
+  bottom: 397px;
+  box-sizing:border-box;
+}
+.invitadosimg2{
+  width: 480px;
+  height: 364px;
+  position: relative;
+  bottom: 397px;
+  box-sizing:border-box;
+}
+.invitadosimg3{
+  width: 480px;
+  height: 364px;
+  position: relative;
+  bottom: 397px;
+  box-sizing:border-box;
+}
+.invitadosimg4{
+  width: 480px;
+  height: 364px;
+  position: relative;
+  bottom: 397px;
+  box-sizing:border-box;
+}
+.invitadosimg5{
+  width: 480px;
+  height: 364px;
+  position: relative;
+  bottom: 397px;
+  box-sizing:border-box;
+}
+.invitadosimg6{
+  width: 480px;
+  height: 364px;
+
   position: relative;
   bottom: 397px;
   box-sizing:border-box;
@@ -385,7 +448,6 @@ li:hover {
   }
     .box {
       display: flex;
-      text-align: top;
       width:640px;
       height:1603.5px;
       background:
@@ -408,13 +470,37 @@ li:hover {
     left: 16px;
     bottom: 10px;
     }
+    .iframe1{
+      width:584px;
+      height:232px;
+      border: 0;
+      background-color: transparent;
+  }
+  .iframe2{
+    width:584px;
+    height:232px;
+    border: 0;
+    background-color: transparent;
+}
+.iframe3{
+  width:584px;
+  height:232px;
+  border: 0;
+  background-color: transparent;
+}
+.iframe4{
+  width:584px;
+  height:232px;
+  border: 0;
+  background-color: transparent;
+}
     .embedidos{
       position: relative;
       left: 20px;
     }
      .telimg{
-       width: 360px;
-       height: 519px;
+       width: 457.5px;
+       height: 660px;
       position: relative;
       bottom: 128px;
       left: 100px;
@@ -445,8 +531,49 @@ li:hover {
   font-size: 48px;
   color: #060A24;
   }
-  .invitadosimg{
-    display: inline block;
+  .invitadosimg1{
+    width: 480px;
+  height: 364px;
+    position: relative;
+    left: 100px;
+    top: 29px;
+    box-sizing:border-box;
+  }
+  .invitadosimg2{
+    width: 480px;
+  height: 364px;
+    position: relative;
+    left: 100px;
+    top: 29px;
+    box-sizing:border-box;
+  }
+  .invitadosimg3{
+    width: 480px;
+  height: 364px;
+    position: relative;
+    left: 100px;
+    top: 29px;
+    box-sizing:border-box;
+  }
+  .invitadosimg4{
+    width: 480px;
+  height: 364px;
+    position: relative;
+    left: 100px;
+    top: 29px;
+    box-sizing:border-box;
+  }
+  .invitadosimg5{
+    width: 480px;
+  height: 364px;
+    position: relative;
+    left: 100px;
+    top: 29px;
+    box-sizing:border-box;
+  }
+  .invitadosimg6{
+    width: 480px;
+  height: 364px;
     position: relative;
     left: 100px;
     top: 29px;
@@ -690,7 +817,6 @@ top: 203px;
   }
     .box {
       display: flex;
-      text-align: top;
       width:960px;
       height:1603.5px;
       background:
@@ -714,13 +840,37 @@ top: 203px;
     left: 16px;
     bottom: 10px;
     }
+    .iframe1{
+      width:584px;
+      height:232px;
+      border: 0;
+      background-color: transparent;
+  }
+  .iframe2{
+    width:584px;
+    height:232px;
+    border: 0;
+    background-color: transparent;
+}
+.iframe3{
+  width:584px;
+  height:232px;
+  border: 0;
+  background-color: transparent;
+}
+.iframe4{
+  width:584px;
+  height:232px;
+  border: 0;
+  background-color: transparent;
+}
     .embedidos{
       position: relative;
       left: 200px;
     }
      .telimg{
-       width: 360px;
-       height: 519px;
+       width: 457.5px;
+       height: 660px;
       position: relative;
       bottom: 128px;
       left: 250px;
@@ -751,7 +901,54 @@ top: 203px;
   font-size: 48px;
   color: #060A24;
   }
-  .invitadosimg{
+  .invitadosimg1{
+    width: 480px;
+  height: 364px;
+    display: block;
+    position: relative;
+    left: 250px;
+    top: 29px;
+    box-sizing:border-box;
+  }
+  .invitadosimg2{
+    width: 480px;
+  height: 364px;
+    display: block;
+    position: relative;
+    left: 250px;
+    top: 29px;
+    box-sizing:border-box;
+  }
+  .invitadosimg3{
+    width: 480px;
+  height: 364px;
+    display: block;
+    position: relative;
+    left: 250px;
+    top: 29px;
+    box-sizing:border-box;
+  }
+  .invitadosimg4{
+    width: 480px;
+  height: 364px;
+    display: block;
+    position: relative;
+    left: 250px;
+    top: 29px;
+    box-sizing:border-box;
+  }
+  .invitadosimg5{
+    width: 480px;
+  height: 364px;
+    display: block;
+    position: relative;
+    left: 250px;
+    top: 29px;
+    box-sizing:border-box;
+  }
+  .invitadosimg6{
+    width: 480px;
+  height: 364px;
     display: block;
     position: relative;
     left: 250px;
